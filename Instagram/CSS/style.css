@@ -6,15 +6,16 @@
     border:0;
     box-sizing: border-box;
     outline:none;
+    font-family: 'Roboto', sans-serif;
 }
-body{
+/*body{*/
 	background-color: #fafafa;
 }
 .container{
 
 	width: 100%;
 	height:auto;
-		
+	
 }
 .header{
    
@@ -29,6 +30,7 @@ body{
    top: 0;
    left:0;
    right:0;
+
 }
 #icon2,#icon3{
 	display: none;
